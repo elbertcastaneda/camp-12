@@ -1,1 +1,5 @@
 # Readme
+
+# Authors:
+- Jenny
+- Bob
