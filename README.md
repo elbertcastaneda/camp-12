@@ -10,3 +10,4 @@ conflict from master
 1
 2
 A
+B
