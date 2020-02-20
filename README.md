@@ -12,3 +12,4 @@ conflict from master
 A
 B
 123
+123
